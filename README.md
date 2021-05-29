@@ -1,6 +1,8 @@
 # Tobi  --  Software Development Group Project 
 
 A new Flutter project  of Dog breed , audio , emotion  ,Classification
+##  TOBI helps people to identify any dog breed and emotion all in one mobile application. The app also consists of a dog breed catalogue and a notice board where the user can complain about dog abuse and lost dogs. Our team has also created an IOT device which is a tracking device for your dog. #SDGP #Teamwork #machinelearning
+#TechStrack - Flutter , Python, Flask , Keras, Tensorflow , Heroku , Figma , Arduino , C++ ,Firebase ,PHP
 
 ## Getting Started
 
