@@ -16,5 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-## App Demo
-![App__Demo](https://www.linkedin.com/posts/sumudusujith_sdgp-teamwork-machinelearning-activity-6804016653773393920-ox01)
+## App Demo  --  (https://www.linkedin.com/posts/sumudusujith_sdgp-teamwork-machinelearning-activity-6804016653773393920-ox01)
