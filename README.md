@@ -19,4 +19,5 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ## App Demo  --  (https://www.linkedin.com/posts/sumudusujith_sdgp-teamwork-machinelearning-activity-6804016653773393920-ox01)
-(https://github.com/sumudusujith/Tobi_App/blob/b6bb7e0d3b48478a1a92a91a378a1705541c69e3/Tobi%20Demo.mp4)
+
+![Home](https://github.com/sumudusujith/Tobi_App/blob/b6bb7e0d3b48478a1a92a91a378a1705541c69e3/Tobi%20Demo.mp4)
